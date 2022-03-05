@@ -72,7 +72,6 @@ class TodoState {
                 })
             }
         })
-        console.log(this.projects)
     }
 
     setData() {
